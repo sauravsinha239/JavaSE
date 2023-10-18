@@ -1,0 +1,7 @@
+java command to bind mysql or oracle driver to connect java db connectivity using notepad or terminal
+
+compile methods: javac -cp drivername;.  java source code
+ex :  javac -cp oracle.jar;. jdbc.java
+execute : java -cp oracle.jar;. jdbc
+
+thanks
